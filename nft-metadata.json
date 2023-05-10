@@ -1,0 +1,16 @@
+{
+    "attributes": [
+        {
+            "trait_type": "NFT",
+            "value": "Test Dog NFT"      
+        },
+    {
+        "trait_type": "Color",
+        "value": " Pink"
+    }
+    ],
+
+    "description":" Uma NFT de teste ",
+    "image":"ipfs://QmQnu6QQ1Qi2XtGGWGkwxA6CEBePaGn1jjFfQzPuuTEeBD",
+    "name": "Dog NFT"
+}
